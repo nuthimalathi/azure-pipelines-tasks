@@ -9,7 +9,7 @@ resources:
     type: git
     endpoint: AzureDevOps
     name: AzureDevOps/AzureDevOps
-
+//
 jobs:
 
 # All tasks on Windows
